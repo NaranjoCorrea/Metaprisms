@@ -1,0 +1,12 @@
+cff-version: 1.1.0
+message: "If you use this files, please cite it as below."
+authors:
+  - family-names: Francisco Luis
+    given-names: Naranjo-Correa
+    orcid: https://orcid.org/0000-0001-8651-4165  
+  - family-names: Guadalupe
+    given-names: Martínez-Borreguero
+    orcid: https://orcid.org/0000-0002-0246-9406
+title: Metaprisms: v0.1
+version: v0.1
+date-released: 2023-06-01
