@@ -1,13 +1,26 @@
-cff-version: 1.1.0
-message: "If you use this files, please cite it as below."
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Metaprisms Repository
+message: 'If you use this files, please cite it as below.'
+type: dataset
 authors:
   - family-names: Francisco Luis
     given-names: Naranjo-Correa
-    orcid: https://orcid.org/0000-0001-8651-4165  
+    orcid: 'https://orcid.org/0000-0001-8651-4165'
   - family-names: Guadalupe
     given-names: Martínez-Borreguero
-    orcid: https://orcid.org/0000-0002-0246-9406
-title: Metaprisms: v0.1
+    orcid: 'https://orcid.org/0000-0002-0246-9406'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.7996529
+repository-code: 'https://github.com/NaranjoCorrea/Metaprisms'
+abstract: >-
+  A repository showcasing captivating educational images
+  illustrating light dispersion in negative index materials,
+  enhancing understanding of optics. Perfect for students
+  and educators studying dispersion phenomena.
+license: MIT
 version: v0.1
-doi: 10.5281/zenodo.7996529
-date-released: 2023-06-01
+date-released: '2023-06-01'
